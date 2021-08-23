@@ -5,5 +5,5 @@ int factorial(int n){
     if(n>0){
 	return(n * factorial(n-1));
     }
-    else{cout<<"please enter a positive number"; return 0; }
+    else{printf("please enter a positive number"); return 0; }
 }
