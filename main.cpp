@@ -9,5 +9,6 @@ int main(){
     x = 56;
     y = 98;
     cout << hcf(x,y) << "\n";
+    cout << gcd(x,y) << "\n";
     return 0;
 }
