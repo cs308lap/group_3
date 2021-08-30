@@ -1,6 +1,8 @@
 #include <bits/stdc++.h>
 using namespace std;
- 
+
+#include "functions.h"
+
 int hcf(int a, int b)
 {
     if (a == 0)
